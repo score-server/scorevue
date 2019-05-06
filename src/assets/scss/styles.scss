@@ -1,0 +1,56 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+@import 'variables.scss';
+@import 'nav.scss';
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    background-color: $primaryBackgroundColor;
+    color: $white;
+}
+hr {
+    background-color: $greenBackgroundColor !important;
+}
+
+a {
+    color: $greenBackgroundColor !important;
+}
+
+/* color & background color for cards & content */
+.container {
+    color: $white;
+}
+.container .card {
+    color: $cardColor;
+    background-color: $cardBackgroundColor;
+    border: none;
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: $greenBackgroundColor;
+    border-color: $greenBackgroundColor;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+    background-color: $buttonLinkColor;
+    border-color: $buttonLinkColor;
+
+}
+
+.alert-primary {
+    background-color: $greenBackgroundColor;
+    border-color: $buttonLinkColor;
+    color: $white;
+}
+
+.list-group-flush {
+    color: $black;
+}
