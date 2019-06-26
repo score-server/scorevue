@@ -31,6 +31,9 @@ a {
     background-color: $cardBackgroundColor;
     border: none;
 }
+.container .discord {
+    min-height: 500px;
+}
 
 /* Button Styling */
 .btn-primary {
