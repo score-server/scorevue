@@ -1,29 +1,21 @@
-# scorevue
+# Scorevue
 
-## Project setup
+## Project setup & development
+- Clone the project
+- install packages
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve
 ```
+## Production mode 
 
-### Compiles and minifies for production
+### Compile for production build
 ```
-npm run build
+yarn build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
