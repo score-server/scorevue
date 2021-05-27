@@ -5,12 +5,12 @@
 </div>
 <hr>
 <div class="row">
-    <div class="col-lg-8 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="row">
             <div class="col-md-4 col-6 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">MovieScore <i class="fas fa-video"></i></h5>
+                        <h5 class="card-title">MovieScore</h5>
                         <p class="card-text">Visit MovieScore to get and share information about our favorite movies and TV-shows. Invite only tho.</p>
                         <a href="https://movie.scorewinner.ch">Go to MovieScore</a>
                     </div>
@@ -19,27 +19,22 @@
             <div class="col-md-4 col-6 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Minecraft Server <i class="fas fa-gamepad"></i></h5>
+                        <h5 class="card-title">Minecraft Server #1</h5>
                         <p class="card-text">We have a vanilla Minecraft server running on Version 1.14.3. Hit me up if you want to join</p>
                         <a href="#">IP address: scorewinner.ch:25565</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-6 mb-4">
+                        <div class="col-md-4 col-6 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Unturned Server <i class="fas fa-gamepad"></i></h5>
-                        <p class="card-text">We have a Unturned server running on the newest Version on the map "Russia". Hit me up if you want to join.</p>
-                        <a href="#">IP address: scorewinner.ch:27015</a>
+                        <h5 class="card-title">Minecraft Server #2</h5>
+                        <p class="card-text">We're also hosting a modded Minecraft server, running AllTheMods 6 with Mod Version 1.5.6</p>
+                        <a href="#">IP address: scorewinner.ch:25566</a>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="col-lg-4 col-md-12">
-        <h5 class="card-title">Discord Server <i class="fab fa-discord"></i></h5>
-        <p class="card-text">We have also a Discord server. Hit me up if you want to join.</p>
-        <iframe src="https://discordapp.com/widget?id=355686076003778561&amp;theme=dark" class="discord" allowtransparency="true" frameborder="0"></iframe>
     </div>
 </div>
 </div>

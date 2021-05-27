@@ -11,7 +11,7 @@
     <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav class="ml-auto">
             <b-nav-item href="/services">Services</b-nav-item>
-            <b-nav-item href="/detail">Detail</b-nav-item>
+            <b-nav-item href="/status">Status</b-nav-item>
             <b-nav-item href="/about">About</b-nav-item>
             <b-nav-item href="http://movie.scorewinner.ch">MovieScore</b-nav-item>
         </b-navbar-nav>

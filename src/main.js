@@ -4,7 +4,7 @@ import BootstrapVue from 'bootstrap-vue'
 
 import App from './App.vue'
 import Home from './pages/Home.vue'
-import Detail from './pages/Detail.vue'
+import Status from './pages/Status.vue'
 import About from './pages/About.vue'
 import Services from './pages/Services.vue'
 
@@ -21,8 +21,8 @@ const router = new VueRouter({
      component: Home
     }, 
     {
-      path: '/detail',
-     component: Detail
+      path: '/status',
+     component: Status
     },
     {
       path: '/about',
