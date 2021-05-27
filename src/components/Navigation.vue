@@ -9,11 +9,11 @@
       <i class="fas fa-bars"></i>
     </b-navbar-toggle>
     <b-collapse is-nav id="nav_collapse">
-        <b-navbar-nav>
-            <b-nav-item href="/services"><i class="fas fa-cogs"></i> Services</b-nav-item>
-            <b-nav-item href="/detail"><i class="fas fa-info-circle"></i> Detail</b-nav-item>
-            <b-nav-item href="/about"><i class="fas fa-info"></i> About</b-nav-item>
-            <b-nav-item href="http://sexabig.ch"><i class="fas fa-glass-martini"></i> Sexabig</b-nav-item>
+        <b-navbar-nav class="ml-auto">
+            <b-nav-item href="/services">Services</b-nav-item>
+            <b-nav-item href="/detail">Detail</b-nav-item>
+            <b-nav-item href="/about">About</b-nav-item>
+            <b-nav-item href="http://movie.scorewinner.ch">MovieScore</b-nav-item>
         </b-navbar-nav>
     </b-collapse>
   </b-navbar>
